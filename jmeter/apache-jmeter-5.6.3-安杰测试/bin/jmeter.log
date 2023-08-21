@@ -1,0 +1,22 @@
+2023-08-21 21:00:03,372 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-08-21 21:00:03,402 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-08-21 21:00:03,403 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-08-21 21:00:03,412 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-08-21 21:00:03,413 INFO o.a.j.JMeter: Version 5.6.3-安杰测试 c94db97
+2023-08-21 21:00:03,413 INFO o.a.j.JMeter: java.version=15.0.2
+2023-08-21 21:00:03,413 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2023-08-21 21:00:03,413 INFO o.a.j.JMeter: os.name=Mac OS X
+2023-08-21 21:00:03,413 INFO o.a.j.JMeter: os.arch=x86_64
+2023-08-21 21:00:03,413 INFO o.a.j.JMeter: os.version=12.1
+2023-08-21 21:00:03,413 INFO o.a.j.JMeter: file.encoding=UTF-8
+2023-08-21 21:00:03,414 INFO o.a.j.JMeter: java.awt.headless=null
+2023-08-21 21:00:03,414 INFO o.a.j.JMeter: Max memory     =1073741824
+2023-08-21 21:00:03,414 INFO o.a.j.JMeter: Available Processors =4
+2023-08-21 21:00:03,442 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-08-21 21:00:03,442 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-08-21 21:00:03,442 INFO o.a.j.JMeter: JMeterHome=/Users/anjie/work/SET/perform-test/homework/jmeter/apache-jmeter-5.6.3-安杰测试
+2023-08-21 21:00:03,442 INFO o.a.j.JMeter: user.dir  =/Users/anjie/work/SET/perform-test/homework/jmeter/apache-jmeter-5.6.3-安杰测试/bin
+2023-08-21 21:00:03,443 INFO o.a.j.JMeter: PWD       =/Users/anjie/work/SET/perform-test/homework/jmeter/apache-jmeter-5.6.3-安杰测试/bin
+2023-08-21 21:00:03,445 INFO o.a.j.JMeter: IP: 10.136.186.167 Name: anjieMBP FullName: 10.136.186.167
+2023-08-21 21:00:03,465 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-08-21 21:00:04,020 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:javax.swing.plaf.metal.MetalLookAndFeel
