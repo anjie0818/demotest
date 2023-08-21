@@ -87,9 +87,9 @@ pipeline {
     }
 }
 ```
-
-
-
+![](./images/pipline.png)
+![](./images/log.png)
+![](./images/jenkinsreport.png)
 ### 三：性能监控练习
 >电脑太拉了，环境还没搭起来就卡死了
 ### 四：JMeter 源码修改练习
