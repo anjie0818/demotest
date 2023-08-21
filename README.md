@@ -74,6 +74,7 @@ pipeline {
                 // 下载代码
                 git branch: 'main', changelog: false, poll: false, url: 'https://github.com/anjie0818/demotest.git'
                 // Run bash.
+                sh "cd jmeter && unzip apache-jmeter-5.6.3-安杰测试.zip"
                 sh "cd jmeter && sh auto_stress_test_jenkins.sh ${duration} ${thread_number_array}"
             }
             post {
