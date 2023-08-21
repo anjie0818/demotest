@@ -1,6 +1,6 @@
 ## 题目：
 https://ceshiren.com/t/topic/26539
-## 答案：
+## 作业：
 ### 一. JMeter压测脚本开发实战训练
 [jmx跳转](./jmeter/newbee_stress_complex_exam.jmx)
 #### 1、流程分支 1,2,3 的流量控制比例为 6:1:3
