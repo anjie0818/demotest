@@ -72,7 +72,7 @@ pipeline {
         stage('exec') {
             steps {
                 // 下载代码
-                git branch: 'main', changelog: false, poll: false, url: 'https://github.com/anjie0818/XXXXXX.git'
+                git branch: 'main', changelog: false, poll: false, url: 'https://github.com/anjie0818/demotest.git'
                 // Run bash.
                 sh "cd jmeter && sh auto_stress_test_jenkins.sh ${duration} ${thread_number_array}"
             }
