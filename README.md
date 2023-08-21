@@ -52,7 +52,7 @@ class UniquePhoneNumberGenerator {
 * 方法：使用jmeter的JSON Extractor
   * $.data.hotGoodses[*].goodsId
   ![](./images/json.png)
-### 二：自动化压测练习(运行Jenins任务执行压力测试)
+### 二：自动化压测练习(运行Jenkins任务执行压力测试)
 * 编写shell实现静默压测 [跳转](./jmeter/auto_stress_test_jenkins.sh)
   ```shell
   # 第一个参数 300 代表运行时间
