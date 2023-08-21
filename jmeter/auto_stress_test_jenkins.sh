@@ -35,6 +35,7 @@ do
     ${jmeter_path}/bin/jmeter -n -t ${jmx_filename} -l ${jtl_filename}  -Jthreadcount=${num} -Jduration=${duration} -e -o ${web_report_path_name}
     echo "结束压测并发数 ${num}"
     echo "<a href='${web_report_path_name}'>${web_report_path_name}</a><br><br>" >> index.html
+    sleep 10
 done
 echo "自动化压测全部结束"
 
